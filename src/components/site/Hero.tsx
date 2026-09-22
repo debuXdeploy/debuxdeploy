@@ -68,8 +68,8 @@ export function Hero() {
           className="mx-auto mt-20 grid max-w-3xl grid-cols-2 gap-px overflow-hidden rounded-2xl border border-border bg-border sm:grid-cols-4"
         >
           {[
-            ["40+", "Products shipped"],
-            ["6+", "Years combined"],
+            ["5+", "Products shipped"],
+            ["2+", "Years combined"],
             ["99.9%", "Uptime delivered"],
             ["3", "Senior engineers"],
           ].map(([value, label]) => (
